@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1,Combate
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/combate_ac3478d6_8cfa60dd1b87015c78833938d572b09c800247f7.m3u8
+#EXTINF:-1,Telecine Pipoca
+http://edge-aws.aovivo.club/hls/s:78.47.74.192/telecinepipocahd_ae7329c9_26612b624106bc6e32abac4d3ac27092dce1f901.m3u8
+#EXTINF:-1,Fox
+http://edge-aws.aovivo.club/hls/s:94.177.242.28/fox_5a5b0f9b_7ec11ce25d9108173d07b02999578e8afe37ca4b.m3u8
+#EXTINF:-1,HBO
+http://edge-aws.aovivo.club/hls/s:78.47.3.135/hbo1080p_63266754_77dec49efd435e23a3e7bb5990d59a49d87af9a5.m3u8
+#EXTINF:-1,Cinemax HD
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/cinemax720p_49117359_1619cfa352c4e984d1e4eed4638f4612b4836711.m3u8
+#EXTINF:-1,A&E
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/aemundo_c28aca23_9de3e1bf3eaf633ebce500cfdb1f6d40e82bbcae/playlist.m3u8
+#EXTINF:-1,Megapix
+http://edge-aws.aovivo.club/hls/s:94.177.242.28/megapix_a6f16ab4_7d1600f6958407c7158b5ab43c553d65165aa84d.m3u8
